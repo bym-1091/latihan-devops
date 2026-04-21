@@ -1,1 +1,1 @@
-Ganti baris 1 di branch conflict
+Baris ini diedit di master

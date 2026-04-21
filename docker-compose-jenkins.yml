@@ -1,0 +1,17 @@
+services:
+  jenkins:
+    image: jenkins/jenkins:lts
+    privileged: true
+    user: root
+    ports:
+      - "8082:8080"
+      - "50000:50000"
+    container_name: jenkins-master
+    volumes:
+      - ./jenkins_home:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - devops-net
+
+networks:
+  devops-net:

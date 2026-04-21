@@ -1,0 +1,139 @@
+Started by user [8mha:////4BFUE/+CBT+qW8cHvsdEDN2FMxT2Xy/BriDbn2y5BDh9AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+[8mha:////4FNbbvRhOyRz8bOBjh79oCauUPvz4xv8MouGMEiIv340AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4A2Nm9oj9pBeQ+dcPVz1/ZqOoc0khxsQr45jbB9ek4/aAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4EI2tJhBCf8YUaXLAxtClt7TMq5OlpW4vXFekhSI/DXHAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/jenkins_home/workspace/pipeline-latihan-devops
+[8mha:////4ItgY7hnwjLFwpoIhMEEDb94dqezB4PnBWpIX9Oaaj3LAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4NU3CjLmF0WgLDBOVdPuhpwEyDhoEEkGcqJ8wN542/R1AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4LeHRiZMEncbtdogO0VflWiHo9+/8AxxDKvVuIl53qdUAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Checkout)
+[8mha:////4PuW1Oy0QfMmMX+dZi9bbP/KscmT3wXzIgQ/+V5bD94zAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/pipeline-latihan-devops/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/bym-1091/latihan-devops.git # timeout=10
+Fetching upstream changes from https://github.com/bym-1091/latihan-devops.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.47.3'
+ > git fetch --tags --force --progress -- https://github.com/bym-1091/latihan-devops.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 3686e099f045a8996d9f528ac8457108585a6e9a (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 3686e099f045a8996d9f528ac8457108585a6e9a # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git branch -D master # timeout=10
+ > git checkout -b master 3686e099f045a8996d9f528ac8457108585a6e9a # timeout=10
+Commit message: "Create README.md"
+ > git rev-list --no-walk 3686e099f045a8996d9f528ac8457108585a6e9a # timeout=10
+[8mha:////4FQuP/Yt4VD8eQ3Pnnkr0hC+A7FDTsG6y36jtGBHwfxMAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4HoWIELiKBE1QbKORauHkMHYfGowNqSkUAzcEseHIihzAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4Nu2o4pQKwczqd9fTHPgBvkSet6tPzqDfDh6e3CYFOIHAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4DxM0vOkroTBeQmO9re4cZQUSaYV7G4/ZPsm+hhLmIWlAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (SonarQube Scan)
+[8mha:////4GKhl2nWYgOr2eSJ7igrcjzkUEzWvOVdWNjpAneH9rcrAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] script
+[8mha:////4KZ99uibowqQ5HjbIet7JWWirBVt5ACzoCcFNPrwPCJsAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4DK9U6YGuGlkfxeAa7Q+J9qocyypAUhCYgu/o+YIwWHQAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] sh
++ pwd
++ docker run --rm --network=host -v /var/jenkins_home/workspace/pipeline-latihan-devops:/usr/src sonarsource/sonar-scanner-cli -Dsonar.projectKey=test -Dsonar.sources=. -Dsonar.host.url=http://localhost:9000 -Dsonar.token=sqp_d884963ebfd2e32bbdbf633393330cf3c9772794
+04:55:42.205 INFO  Scanner configuration file: /opt/sonar-scanner/conf/sonar-scanner.properties
+04:55:42.214 INFO  Project root configuration file: NONE
+04:55:42.271 INFO  SonarScanner CLI 8.0.1.6346
+04:55:42.295 INFO  Linux 6.6.87.2-microsoft-standard-WSL2 amd64
+04:55:48.300 INFO  Communicating with SonarQube Community Build 26.4.0.121862
+04:55:48.303 INFO  JRE provisioning: os[linux], arch[x86_64]
+04:55:53.916 INFO  Starting SonarScanner Engine...
+04:55:53.919 INFO  Java 21.0.9 Eclipse Adoptium (64-bit)
+04:55:55.926 INFO  Load global settings
+04:55:56.115 INFO  Load global settings (done) | time=189ms
+04:55:56.124 INFO  Server id: 147B411E-AZ2uPriAd4hUy6hjSfjn
+04:55:56.148 INFO  Loading required plugins
+04:55:56.151 INFO  Load plugins index
+04:55:56.183 INFO  Load plugins index (done) | time=30ms
+04:55:56.186 INFO  Load/download plugins
+04:55:57.296 INFO  Load/download plugins (done) | time=1114ms
+04:55:57.877 INFO  Process project properties
+04:55:57.903 INFO  Process project properties (done) | time=26ms
+04:55:57.926 INFO  Project key: test
+04:55:57.939 INFO  Base dir: /usr/src
+04:55:57.940 INFO  Working dir: /tmp/.scannerwork
+04:55:57.958 INFO  Load project settings for component key: 'test'
+04:55:58.017 INFO  Load project settings for component key: 'test' (done) | time=57ms
+04:55:58.097 INFO  Load quality profiles
+04:55:58.222 INFO  Load quality profiles (done) | time=119ms
+04:55:58.299 WARN  SCM provider autodetection failed. Please use "sonar.scm.provider" to define SCM of your project, or disable the SCM Sensor in the project settings.
+04:55:58.323 INFO  Load active rules
+04:55:59.149 INFO  Load active rules (done) | time=824ms
+04:55:59.162 INFO  Load analysis cache
+04:55:59.179 INFO  Load analysis cache (404) | time=16ms
+04:55:59.354 INFO  Preprocessing files...
+04:55:59.380 INFO  0 languages detected in 0 preprocessed files (done) | time=25ms
+04:55:59.388 INFO  Loading plugins for detected languages
+04:55:59.395 INFO  Load/download plugins
+04:55:59.397 INFO  Load/download plugins (done) | time=0ms
+04:55:59.521 INFO  Load project repositories
+04:55:59.697 INFO  Load project repositories (done) | time=176ms
+04:55:59.776 INFO  Indexing files...
+04:55:59.779 INFO  Project configuration:
+04:55:59.821 INFO  0 files indexed (done) | time=6ms
+04:55:59.822 INFO  ------------- Run sensors on module test
+04:55:59.957 INFO  Load metrics repository
+04:56:00.032 INFO  Load metrics repository (done) | time=72ms
+04:56:00.607 INFO  Sensor IaC hadolint report Sensor [iac]
+04:56:00.610 INFO  Sensor IaC hadolint report Sensor [iac] (done) | time=4ms
+04:56:00.612 INFO  Sensor Java Config Sensor [iac]
+04:56:00.633 INFO  There are no files to be analyzed for the Java language
+04:56:00.636 INFO  Sensor Java Config Sensor [iac] (done) | time=23ms
+04:56:00.638 INFO  Sensor IaC Docker Sensor [iac]
+04:56:00.648 INFO  There are no files to be analyzed for the Docker language
+04:56:00.649 INFO  Sensor IaC Docker Sensor [iac] (done) | time=8ms
+04:56:00.650 INFO  Sensor TextAndSecretsSensor [text]
+04:56:00.677 INFO  Available processors: 4
+04:56:00.678 INFO  Using 4 threads for analysis.
+04:56:01.401 INFO  The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test", "tests", "mock" or "mocks"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+04:56:01.471 INFO  Start fetching files for the text and secrets analysis
+04:56:01.529 INFO  Using Git CLI to retrieve dirty files
+04:56:01.540 WARN  Retrieving only language associated files, make sure to run the analysis inside a git repository to make use of inclusions specified via "sonar.text.inclusions"
+04:56:01.542 INFO  There are no files to be analyzed for the text and secrets analysis
+04:56:01.544 INFO  Sensor TextAndSecretsSensor [text] (done) | time=903ms
+04:56:01.549 INFO  ------------- Run sensors on project
+04:56:01.737 INFO  Sensor Zero Coverage Sensor
+04:56:01.738 INFO  Sensor Zero Coverage Sensor (done) | time=1ms
+04:56:01.739 INFO  ------------- Gather SCA dependencies on project
+04:56:01.749 INFO  Dependency analysis skipped
+04:56:01.754 INFO  SCM Publisher No SCM system was detected. You can use the 'sonar.scm.provider' property to explicitly specify it.
+04:56:01.759 INFO  CPD Executor Calculating CPD for 0 files
+04:56:01.766 INFO  CPD Executor CPD calculation finished (done) | time=0ms
+04:56:01.941 INFO  Analysis report generated in 166ms, dir size=265.1 kB
+04:56:01.963 INFO  Analysis report compressed in 22ms, zip size=27.9 kB
+04:56:02.018 INFO  Analysis report uploaded in 48ms
+04:56:02.019 INFO  ANALYSIS SUCCESSFUL, you can find the results at: http://localhost:9000/dashboard?id=test
+04:56:02.021 INFO  Note that you will be able to access the updated dashboard once the server has processed the submitted analysis report
+04:56:02.022 INFO  More about the report processing at http://localhost:9000/api/ce/task?id=7fa5de85-9d1c-4016-9986-2cac7af4c7d5
+04:56:02.042 INFO  Analysis total time: 4.651 s
+04:56:02.045 INFO  SonarScanner Engine completed successfully
+04:56:02.169 INFO  EXECUTION SUCCESS
+04:56:02.170 INFO  Total time: 19.983s
+[8mha:////4ESS9ZPYSh3oEA/CRljwQ49K4dTYO0zXFy8zorTI2Sp2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+[8mha:////4C6DvIT0/yglMsZJCdlP+L/ihPBaOomIuaRMKNbVP9poAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // script
+[8mha:////4GBzKIkynZzfXzP4s4KDtfEift9DL8cYpudWOM8Hqx3tAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyqSwcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMHufoG73n2rfl6fofL4AAAA=[0m[Pipeline] }
+[8mha:////4LSe0SIvwy5B7hMms6oaKxp9/jHraRlUwltJtcDEqmwdAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICHRKiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BtQlufq+AAAA[0m[Pipeline] // stage
+[8mha:////4Offw3W7FQl6GiENt1b+nRww+dJdU7Eh+08Kz/kcSF8DAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJBqEqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A361JXbBAAAA[0m[Pipeline] stage
+[8mha:////4M7d47fUWtAEtwq/hLHNTrGJ9yZ8S5FM5GnHtSE0C6OJAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] { (Build Image)
+[8mha:////4IwPsa+bzlnCav+yu4O0DB+Qvv6zqG/iiIXWdOstWux/AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICtIgqreWGF5jYGCfWnbEdkooX8TX+QCASFVusdraZ5wuWKcKRo8XWUOcoNQ6D7+20cODYXTwP2PIZG6bE3qA0g2Rt6hklZwNzihIWAlaGGs/Jkc2wFq26q8orstUpx+k7CCidvsEDCjGZs4r5C2OEzbXXienn+SuAMWQo99tP7cIbaOP4NL4AAAA=[0m[Pipeline] sh
++ docker build -t image-materi-jenkins .
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 2B done
+#1 DONE 0.0s
+ERROR: failed to solve: failed to read dockerfile: open Dockerfile: no such file or directory
+[8mha:////4HhNHae9709FsRK3iBKhCk0W7rZZYNnl2C44m40OPGjsAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKC0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJu8TlHX9qf0b7E/nQb4AAAA=[0m[Pipeline] }
+[8mha:////4Mu4UseXSCCsZ1NyLI8Pew6wfChx5TT+ZNna4vXwbaWnAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioEIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrdPtf28AEud0rYvgAAAA==[0m[Pipeline] // stage
+[8mha:////4P07JwqZ3geUkQMzzTNE3twB+BXmmM+Z/IXyndlguZxdAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6Ikhs04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwA6/9Rob0AAAA=[0m[Pipeline] }
+[8mha:////4I4zt5oX+LCLg+pZG7YjA/kFXlugaLqEJDw/6F2tiImSAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRQFSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsP+ENVAr0AAAA=[0m[Pipeline] // node
+[8mha:////4EPid+ao3xBqQoM5bFCjKzvCzn9Xibd07Cllkjf/lpoMAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkDC7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FebkXZOUHvgnyMr0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE

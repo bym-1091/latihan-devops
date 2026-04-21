@@ -1,0 +1,7 @@
+services:
+  web-server-gue:
+    image: nginx:alpine
+    ports:
+      - "8081:80"
+    volumes:
+      - ./materi.txt:/usr/share/nginx/html/index.html

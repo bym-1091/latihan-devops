@@ -1,0 +1,10 @@
+services:
+  sonarqube:
+    image: sonarqube:community
+    ports:
+      - "9000:9000"
+    networks:
+      - sonarnet
+
+networks:
+  sonarnet:

@@ -1,8 +1,7 @@
 # Pake base image yang ringan
-FROM alpine
+FROM nginx:alpine
 
 # Copy file materi.txt dari laptop ke dalem docker
-COPY materi.txt /app/materi.txt
+COPY materi.txt /usr/share/nginx/html/index.html
 
-# Perintah pas docker dinyalain
-CMD ["cat", "/app/materi.txt"]
+
